@@ -1,0 +1,15 @@
+Intervalul în care se poate depune cererea pentru adeverințe este afișat mai jos:
+
+Program:
+
+Luni: 10:00 - 14:00 
+16:00 - 18:00
+
+Marți: 10:00 - 14:00
+16:00 - 18:00
+
+Miercuri: 10:00 - 14:00
+
+Joi: 12:00 - 15:00
+
+Vineri: Ne pare rău, dar în această zi nu se pot depune adeverințe!
